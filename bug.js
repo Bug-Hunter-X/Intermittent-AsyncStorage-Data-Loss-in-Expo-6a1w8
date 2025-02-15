@@ -1,0 +1,1 @@
+While working on an Expo project, I encountered an issue where the AsyncStorage functionality failed to persist data correctly across app restarts.  The data would seemingly be saved, but upon relaunching the app, it would be missing. This was inconsistent, sometimes working as expected, other times failing without apparent reason.
